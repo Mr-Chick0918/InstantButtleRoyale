@@ -1,0 +1,33 @@
+{
+    "name": "Test_Tap100times",
+    "maps": [
+        {
+            "name": "Test_Tap100times",
+            "id": "a1de4b58-db2e-44e6-a9fc-73a8f487c77d",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Value",
+                    "id": "bb1a8a89-0d0e-4a01-9c7a-0d25fdb505ad",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Tap"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a00d644b-89b6-4100-b351-b7093077eb68",
+                    "path": "<Keyboard>/#(Z)",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
